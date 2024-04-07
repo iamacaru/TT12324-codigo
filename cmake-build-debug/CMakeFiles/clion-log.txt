@@ -1,0 +1,10 @@
+C:\URApps\CLion_2022_2_2\CLion-2022.2.2.win\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/URApps/CLion_2022_2_2/CLion-2022.2.2.win/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\macar\Documents\GitHub\TT12324-codigo -B C:\Users\macar\Documents\GitHub\TT12324-codigo\cmake-build-debug
+-- The C compiler identification is GNU 8.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/URApps/CLion_2022_2_2/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/macar/Documents/GitHub/TT12324-codigo/cmake-build-debug

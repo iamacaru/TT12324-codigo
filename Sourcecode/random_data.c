@@ -4986,7 +4986,7 @@ unsigned long random_initialize ( unsigned long seed )
 /*
   Now set the seed.
 */
-  srandom ( seed );
+  srand ( seed );
 
   return seed;
 # undef DEBUG
